@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="fixedString" format="string" />
+    <attr name="fixedWeights" format="integer" />
+
+    <declare-styleable name="FixedTextView">
+        <attr name="fixedString" />
+        <attr name="fixedWeights" />
+    </declare-styleable>
+
+</resources>

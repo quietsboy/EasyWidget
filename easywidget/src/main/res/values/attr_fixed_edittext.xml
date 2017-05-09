@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="fixedText" format="string" />
+    <attr name="fixedWeight" format="integer" />
+
+    <declare-styleable name="FixedEditText">
+        <attr name="fixedText" />
+        <attr name="fixedWeight" />
+    </declare-styleable>
+
+</resources>
